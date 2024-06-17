@@ -1,4 +1,3 @@
-nginx
 postgres:13
 mongo:nanoserver-ltsc2022
 redis:latest
