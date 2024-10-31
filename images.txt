@@ -9,3 +9,4 @@ rabbitmq
 python
 mongo
 golang
+sonarqube:lts
