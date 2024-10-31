@@ -1,12 +1,1 @@
-postgres:13
-mysql
-redis:latest
-nginx
-ubuntu
-httpd
-openjdk
-rabbitmq
-python
-mongo
-golang
 sonarqube:lts
